@@ -1,0 +1,12 @@
+Bowen Chen
+bowchen@seas.upenn.edu
+Courses :- Programming Languages and Techniques, Optical Materials, Independent Study
+Projects: 
+Corrosion of Magnesium Wires in Simulated Body Fluid - Investigated the performance of a magnesium based alloy wire through immersion test and electrochemical method, and tested the effect of different surface coatings on degradation.
+Exfoliation of Borophene Using Sonichemical Method - Attempted obtaining single-layered borophene through sonichemical approach namely via sanitation and centrifugation. 
+------------------------------
+
+
+
+
+
